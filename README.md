@@ -37,3 +37,13 @@ some caption text in red or another color using css.
 └───────────────────────────────────────────────────┘
 
 ```
+
+## To Run
+
+To install dependencies and start the server, type this into your terminal once you're on the right file path and have cloned it down:
+```
+npm install
+node app.js
+```
+
+Go to `localhost:8080` to see the first page, and `localhost:8080/index.html` to see the picture.
