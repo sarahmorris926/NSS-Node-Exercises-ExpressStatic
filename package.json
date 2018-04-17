@@ -1,0 +1,23 @@
+{
+  "name": "NSS-Node-Exercises-ExpressStatic",
+  "version": "1.0.0",
+  "description": "NSS Node.JS Exercises: Express Static (01 Express)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahmorris926/NSS-Node-Exercises-ExpressStatic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahmorris926/NSS-Node-Exercises-ExpressStatic/issues"
+  },
+  "homepage": "https://github.com/sarahmorris926/NSS-Node-Exercises-ExpressStatic#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
